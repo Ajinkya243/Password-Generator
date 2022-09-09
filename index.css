@@ -1,0 +1,39 @@
+body {
+   text-align: center;
+    background-color: #145;
+    border: 1px solid black;
+   
+}
+#first{
+    color: white;
+    font-style: italic;
+}
+#second{
+    color: aquamarine;
+    font-style: italic;
+}
+#generate-btn{
+    margin-left: -110px;
+    background-color: aqua;
+    border-radius: 5px;
+    height: 35px;
+}
+#para-el{
+    color: white;
+}
+#password1-btn{
+    width: 160px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+    background: goldenrod;
+}
+#password2-btn{
+    width: 160px;
+    border-radius: 5px;
+    border: none;
+     height: 25px;
+     margin-left: 5px;
+     margin-top: 10px;
+      background: goldenrod;
+}
